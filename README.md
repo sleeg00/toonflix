@@ -1,16 +1,10 @@
+
 # toonflix
 
-A new Flutter project.
+Flutter를 이용한 각종 클론 코딩
 
-## Getting Started
+## 화면 구성
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screen Shot - iPhone 14 Pro Max - 2023-01-13 at 15 54 30](https://user-images.githubusercontent.com/96710732/212257183-767c80fc-9f3d-410f-8968-c13e7a01e5eb.png)
+![simulator_screenshot_4DE669A7-E1D0-4D79-8C4A-43B99B580AA1](https://user-images.githubusercontent.com/96710732/212273382-183591af-b2b3-4104-8f5b-3e13cdb3cdce.png)
